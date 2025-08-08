@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Documents\\GitHub\\Group47\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\GitHub\\Group47\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C34E4625-72D3-4255-BDDB-0173903DB415}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\onedrive\\documents\\github\\group47\\webapplication1\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C34E4625-72D3-4255-BDDB-0173903DB415}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp\\onedrive\\desktop\\github\\group47\\webapplication1\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C34E4625-72D3-4255-BDDB-0173903DB415}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WebForm1.aspx",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Documents\\GitHub\\Group47\\WebApplication1\\WebApplication1\\WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\GitHub\\Group47\\WebApplication1\\WebApplication1\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\WebForm1.aspx",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Documents\\GitHub\\Group47\\WebApplication1\\WebApplication1\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\GitHub\\Group47\\WebApplication1\\WebApplication1\\WebForm1.aspx",
               "RelativeToolTip": "WebApplication1\\WebForm1.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-08-08T15:56:49.207Z",
               "EditorCaption": ""
